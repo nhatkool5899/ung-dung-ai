@@ -1,0 +1,19 @@
+.wrapper_title{
+    text-align: center;
+    position: relative;
+    z-index: 9;
+    padding-bottom: 40px;
+}
+
+.wrapper_title h2{
+    color: var(--e-global-color-white);
+    line-height: 1.6;
+    max-width: 900px;
+    margin: 0 auto 50px;
+}
+
+.wrapper_title h6{
+    color: var(--e-global-color-secondary);
+    letter-spacing: 1.1px;
+    margin-bottom: 20px;
+}
